@@ -1,0 +1,4 @@
+ name(if not done, make required*)
+    email(if not done, make required*)
+    Password(the icon can use to view)(if not done, make required*)
+    Confirm Password(the icon can use to view)(if not done, make required*)
